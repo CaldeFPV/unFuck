@@ -1,6 +1,0 @@
-Remove Quick Access
-Remove OneDrive
-Remove Network
-Remove Folders in "this pc"
-Remove Camera Roll and Saved Pictures from Pictures 
-Remove IDLE?
